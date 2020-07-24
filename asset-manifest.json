@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-app-react/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/my-app-react/static/js/main.347f465d.chunk.js",
+    "main.js.map": "/my-app-react/static/js/main.347f465d.chunk.js.map",
+    "runtime-main.js": "/my-app-react/static/js/runtime-main.8f1ffed2.js",
+    "runtime-main.js.map": "/my-app-react/static/js/runtime-main.8f1ffed2.js.map",
+    "static/js/2.c5d7fa74.chunk.js": "/my-app-react/static/js/2.c5d7fa74.chunk.js",
+    "static/js/2.c5d7fa74.chunk.js.map": "/my-app-react/static/js/2.c5d7fa74.chunk.js.map",
+    "index.html": "/my-app-react/index.html",
+    "precache-manifest.e5f7c2e2bb217476c4974c3fd92e3607.js": "/my-app-react/precache-manifest.e5f7c2e2bb217476c4974c3fd92e3607.js",
+    "service-worker.js": "/my-app-react/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/my-app-react/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c5d7fa74.chunk.js.LICENSE.txt": "/my-app-react/static/js/2.c5d7fa74.chunk.js.LICENSE.txt",
+    "static/media/Cable.jpg": "/my-app-react/static/media/Cable.2027484a.jpg",
+    "static/media/Server.jpg": "/my-app-react/static/media/Server.cc785d7d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f1ffed2.js",
+    "static/js/2.c5d7fa74.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.347f465d.chunk.js"
+  ]
+}
